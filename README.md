@@ -1,13 +1,1 @@
 # MERN-ONLINE-STORE(React js, Redux, Mysql, Express js, Node js, Bootstrap 5) 
-
-![1](https://user-images.githubusercontent.com/57447097/157264488-1425f6da-6dc0-4c70-8d10-d40204d2f1ca.png)
-![2](https://user-images.githubusercontent.com/57447097/157264507-bcacc100-3411-49a2-a8a0-641d8903c290.png)
-![3](https://user-images.githubusercontent.com/57447097/157264512-0bfa96e1-4637-4455-9dc3-bd0ccdb1ae66.png)
-![4](https://user-images.githubusercontent.com/57447097/157264515-c2fb9d3c-8f4b-4918-8005-462b6480cbde.png)
-![5](https://user-images.githubusercontent.com/57447097/157264519-fc133497-0c85-46fe-92f2-c28b48122a56.png)
-![6](https://user-images.githubusercontent.com/57447097/157264523-18b26114-9010-4797-81e5-827f570d2f7e.png)
-![7](https://user-images.githubusercontent.com/57447097/157264525-aab9544c-66e6-4a0c-9f22-414db7483a2a.png)
-![8](https://user-images.githubusercontent.com/57447097/157264526-044e8c67-ab18-4bcc-8702-78c28119ceff.png)
-![9](https://user-images.githubusercontent.com/57447097/157264528-56a7a3c4-2ad2-4cf1-bbdf-9bcfed5efa6b.png)
-![10](https://user-images.githubusercontent.com/57447097/157264530-55cc7e67-a04c-41f2-bf03-b1f3de2c767d.png)
-![11](https://user-images.githubusercontent.com/57447097/157264533-ffa7b8c1-aa41-489e-acb9-88a19e229f8a.png)
