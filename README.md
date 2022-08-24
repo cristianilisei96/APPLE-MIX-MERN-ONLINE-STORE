@@ -1,5 +1,7 @@
 # MERN-ONLINE-STORE(React js, Redux, JWT(JSON Web Tokens), Mysql, Express js, Node js, Bootstrap 5) 
 
+First, in both folders (client, server), npm must be installed, with the command "npm i"
+
 ![1-home_page](https://user-images.githubusercontent.com/57447097/186392134-66a28451-add1-4cd4-9653-8147128d312c.png)
 ![2-logged-home-page](https://user-images.githubusercontent.com/57447097/186392198-ee68a033-6956-4a66-8ec1-fa5ee69faf55.png)
 ![3-favorites-cart-pages-added](https://user-images.githubusercontent.com/57447097/186392218-dced9b12-258e-4bc5-b7a6-2084aa9d8282.png)
