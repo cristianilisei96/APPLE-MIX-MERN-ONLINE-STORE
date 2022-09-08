@@ -40,7 +40,6 @@ router.post("/forgotyourpassword", (req, res) => {
               host: "smtp.gmail.com",
               auth: {
                 user: "cristianilisei96@gmail.com",
-                pass: "ttqqkmerjkwjpzfk",
               },
             });
 
