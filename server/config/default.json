@@ -1,4 +1,0 @@
-{
-    "jwtSecret": "sl_myJwtSecret",
-    "passwordSecret": "some super secret..."
-}
